@@ -15,3 +15,7 @@
               .....  so on...   try and see
               
               we have a nice tkinter gui also
+              
+              
+              REQUİREMENT:
+                  . .  Python2.7 is required to run these program.
